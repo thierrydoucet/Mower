@@ -1,4 +1,4 @@
 Mower
 =====
 
-Dépot contenant le projet 'Mower' proposé par Xebia.
+Dépot contenant les implémentations du cas d'école 'Mower' proposé par Xebia.
