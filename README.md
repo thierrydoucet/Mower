@@ -1,4 +1,4 @@
-miscellaneous
-=============
+Mower
+=====
 
-Test et autres projets non 'classable'.
+Dépot contenant le projet 'Mower' proposé par Xebia.
